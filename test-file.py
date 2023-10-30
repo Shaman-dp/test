@@ -1,3 +1,4 @@
 print('hello git')
 print('test sec')
-for
+for i in range(1):
+    print()
